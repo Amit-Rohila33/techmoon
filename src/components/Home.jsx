@@ -23,8 +23,7 @@ const Home = () => {
           <p>
             The rich and interactive experiences we have come to expect on
             mobile apps have created new standards and expectations for all
-            digital media including the web. The result is websites are evolving
-            to become more app-like in their rich functionality.
+            digital media including the web. 
           </p>
         </div>
       </div>
@@ -38,11 +37,7 @@ const Home = () => {
             voluptatum modi autem perspiciatis illo fugiat, quam repudiandae
             accusantium atque ullam laudantium, sint excepturi quis voluptatibus
             id esse porro tempore maxime exercitationem officia dicta reiciendis
-            dignissimos quos. Cumque reiciendis autem perferendis dolore! Minus
-            voluptatem adipisci unde voluptatibus, autem deserunt accusamus a,
-            ab asperiores magnam ad vitae, sed non quidem expedita alias magni
-            repudiandae atque laboriosam harum maiores aut! Praesentium sequi
-            nam quasi obcaecati harum illo aliquam porro beatae aspernatur odit.
+            dignissimos quos. 
           </p>
         </div>
       </div>
